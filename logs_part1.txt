@@ -1,0 +1,18 @@
+Alexa@DESKTOP-0E4BEAP MINGW64 ~/Documents/Git remote (master)
+$ git reflog
+b323452 (HEAD -> master, test, release, develop) HEAD@{0}: merge develop: Fast-forward
+5dbfa0a HEAD@{1}: checkout: moving from release to master
+b323452 (HEAD -> master, test, release, develop) HEAD@{2}: merge develop: Fast-forward
+c182525 HEAD@{3}: checkout: moving from test to release
+b323452 (HEAD -> master, test, release, develop) HEAD@{4}: merge develop: Fast-forward
+156d62d HEAD@{5}: checkout: moving from develop to test
+b323452 (HEAD -> master, test, release, develop) HEAD@{6}: commit (merge): commit for merge resolution
+597e2db HEAD@{7}: commit: commit for index changing
+ff66d70 HEAD@{8}: commit: commit for styles folder
+c182525 HEAD@{9}: checkout: moving from test to develop
+156d62d HEAD@{10}: commit: commit for image source
+58ab7ad HEAD@{11}: commit: commit for images folder
+c182525 HEAD@{12}: checkout: moving from develop to test
+c182525 HEAD@{13}: commit: commit for index.html
+5dbfa0a HEAD@{14}: checkout: moving from master to develop
+5dbfa0a HEAD@{15}: commit (initial): commit for readme.md
